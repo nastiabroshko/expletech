@@ -20,4 +20,7 @@ Run program
 ```
 npm start
 ```
+![expletech](https://github.com/nastiabroshko/expletech/assets/98977891/8960d2a8-15d4-4fe7-922e-8bb82e22ba86)
+
+
 
