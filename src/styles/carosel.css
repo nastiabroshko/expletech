@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Raleway:wght@300&display=swap');
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.block_main {
+    width: 100%;
+    height: 80vh;
+
+}
+
+
+
+.post_block {
+    background-color: rgba(38, 45, 63, 0.459);
+    height: 73%;
+    width: 40%;
+    border: 3px solid #4F5D83;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5%;
+    color: #FFFFFF;
+    padding: 1%;
+    margin-right: 3%;
+
+}
+.carousel-control-next {
+   width: 3%;
+}
+.carousel-control-prev {
+    width: 3%;
+}
+::-webkit-scrollbar {
+    background-color: transparent;
+    
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: rgba(169, 169, 169, 0);
+    border: 3px solid #4F5D83;
+    border-right: none;
+    box-shadow: inset 2px 2px 5px 0 rgba(#fff, 0.5);
+    border-radius: 100px;
+   
+  }
+.coment_block {
+    background-color: rgba(38, 45, 63, 0.459);
+    height: 80%;
+    width: 30%;
+    border: 3px solid #4F5D83;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5%;
+    color: #FFFFFF;
+    overflow-y:auto;
+    margin-left: 3%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 40px;
+    padding: 1%;
+    
+}
+.id_coments{
+    font-weight: 600;
+}
+
+.position_carosel_block {
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+.title_post{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 40px;
+align-items: center;
+text-align: center;
+letter-spacing: 0.38px;
+}
+.body_post{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 40px;
+display: flex;
+text-align: justify;
+letter-spacing: 0.38px;
+
+}

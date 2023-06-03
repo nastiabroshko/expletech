@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Raleway:wght@300&display=swap');
+.main a{
+color:white;
+font-family: 'Raleway', sans-serif;
+
+
+}
+.main a:hover{
+    color: white;
+    
+}
+.main{
+    height: 100%;
+    width: 100%;
+}
+.container {
+    height: 100%;
+    width: 100%;
+}
+.carosel_size.carousel.slide.carousel-dark {
+    height: 100%;
+}
+button.btn.btn-primary:focus-visible{
+    background-color: transparent;
+    border: none; outline: none;
+}
+button.btn.btn-primary:active{
+    background-color: transparent;
+    border: none; outline: none;
+}
